@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525355241462-st8kr7srpmurh5tho8ipbtou78o26r3d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525355241462-st8kr7srpmurh5tho8ipbtou78o26r3d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnPpwACVQKvD5ihQlrPjqBQtBjXadr-dc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525355241462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vishaalkumar.Bookstagram</string>
+	<key>PROJECT_ID</key>
+	<string>bookstagram-a00d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookstagram-a00d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525355241462:ios:dbf3ec598d0b4951bec1d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://bookstagram-a00d6.firebaseio.com</string>
+</dict>
+</plist>
